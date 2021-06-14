@@ -277,7 +277,7 @@ useNativeDriver: true                        // return to start
     
         return (
             <View>
-            <TextInput value="M: 4/4 L: 1/4 K: C D E F G A B c/ d/"
+            <TextInput value="M: 4/4 L: 1/4 K: C D E F G A B c/ c/"
               //onChangeText={newValu =>this.setState({ abc: newValu  })} 
               style={styles.input}
               numberOfLines={5}
